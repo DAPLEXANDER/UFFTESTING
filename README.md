@@ -1,2 +1,2 @@
 # UFFTESTING
-This is your for fun
+I'm barely getting to know GIT
