@@ -1,3 +1,3 @@
-# UFFTESTING
-I'm barely getting to know GIT...
-Know I'm working on branches 
+#This is my new test_site
+###This will be working the _primary_ site for all of **project's**
+> "Aim for progress not perfection".
