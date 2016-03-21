@@ -21,3 +21,19 @@ y tu color favorito es %s." % (nombre, mision, color)
 mi_string = "Dennis es un genio"
 print len(mi_string)
 print mi_string.upper()
+
+''' Igual a (==) *
+No es igual a (!=)
+Menor que (<)
+Menor o igual que (<=)
+Mayor que (>)
+Mayor o igual que (>=)
+
+'''
+#BOOLEAN
+''' Los operadores booleanos (u operadores lógicos) compara sentencias y dan como resultado valores booleanos. Existen tres operadores booleanos en Python:
+
+01. and, que controla si ambas sentencias son True;
+02. or, que controla si por lo menos una de las sentencias es True;
+03. not, que da el opuesto de la sentencia.
+'''

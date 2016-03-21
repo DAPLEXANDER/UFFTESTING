@@ -5,3 +5,4 @@
 ##Things to do
 * New module for Automic login
 * Create auto scripting
+* Learned some new code === Introuding raw input
