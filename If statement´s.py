@@ -1,11 +1,11 @@
-#Whenever you are comparing you have to use =
+#Si esta comparando y debe ser igual igual
 a = 10
 b = 20
 if (a==10):
 	print(a)
 	print("This is true")
 
-#Else
+#Si no es ninguno
 c = 30
 if (a==10):
 	print(a)
@@ -14,7 +14,7 @@ elif(b==20):
 else:
 	print(c)
 
-#Elif
+#Si no es pero es
 if (a==20):
 	print(a)
 elif(b==30):
@@ -22,7 +22,7 @@ elif(b==30):
 else:
 	print(c)
 
-#Printing the three of them
+#Imprimiendo los tres
 if (a==10):
 	print(a)
 	if (b==20):
@@ -30,3 +30,4 @@ if (a==10):
 		if(c==30):
 			print(c)
 #Spaces are very important's due to identation's
+print()
