@@ -2,7 +2,8 @@
 ### This is where I first learned how to use _GIT_
 > AIM FOR PROGRESS NOT PERFECTION
 
-##Things to do
-* New module for Automic login
-* Create auto scripting
-* Learned some new code === Introuding raw input
+##Work in progress
+* Working how to do commits
+* Learning how to work with remotes
+* Learning new Python code
+* Placing simple programs
