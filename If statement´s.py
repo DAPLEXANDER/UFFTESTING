@@ -30,4 +30,4 @@ if (a==10):
 		if(c==30):
 			print(c)
 #Spaces are very important's due to identation's
-print()
+if()
