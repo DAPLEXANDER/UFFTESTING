@@ -2,13 +2,7 @@
 ### This is where I first learned how to use _GIT_
 > AIM FOR PROGRESS NOT PERFECTION
 
-##Work in progress
-* Working how to do commits
-* Learning how to work with remotes
-* Learning new Python code
-* Placing simple programs
-* Get a faster web type processor
-* Strip down the allmate HTML line of codE
-* aWR UPR QIHW NHW dr wssweviwe
-* Dennious web acknowedleg3ement 
-* Miguel
+##The learning path that has to be done with excellency
+* New IDE to code from Homebrew
+* Better compiler for the CJZ
+* Overall better performance to open the application when user get's to the online website
